@@ -3,6 +3,10 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Jekyll Site
+# Wandra
 
-This site uses the **Inter** font — similar to OpenAI’s style.
+Welcome to Wandra AI. We are a stealth-mode startup! 
+
+Yes you heard it right.
+
+We are working with some amazing projects and are developing next-gen products for progressing our civilization to Stage II.
