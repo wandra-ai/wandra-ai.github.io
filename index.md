@@ -3,10 +3,6 @@ layout: default
 title: Home
 ---
 
-# Wandra
+# wandra
 
-Welcome to Wandra AI. We are a stealth-mode startup! 
-
-Yes you heard it right.
-
-We are working with some amazing projects and are developing next-gen products for progressing our civilization to Stage II.
+## Transforming AGIs into experts that prioritizes safety and precision.
