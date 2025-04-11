@@ -1,0 +1,10 @@
+title: My Anthropic-Inspired Site
+description: A clean, minimalist Jekyll theme inspired by Anthropic.
+baseurl: ""
+url: "https://yourusername.github.io"
+theme: null
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
